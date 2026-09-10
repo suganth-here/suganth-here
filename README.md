@@ -110,17 +110,6 @@ System Design
 
 ---
 
-## 🎯 2026 Goals
-
-- [x] Build a strong foundation in Python
-- [x] Learn Django
-- [x] Build backend projects
-- [x] Learn core DSA patterns
-- [ ] Become interview-ready in DSA
-- [ ] Build and deploy production-style backend projects
-- [ ] Land a backend/software engineering role
-
----
 
 ## 💻 Beyond Code
 

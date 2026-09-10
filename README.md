@@ -1,10 +1,154 @@
-Hi there, I'm Suganth 👋
-About Me I'm a ece student with a passion for web development. I'm a beginner in web development, and I'm always excited to take on new challenges and learn new things.
 
-🌱 I’m currently learning full stack web development
-📫 How to reach me: professionalsuganth@gmail.com 
+<div align="center">
 
-skills: Programming Languages: html,css , python , javascript 
-Hardware Skills: circuit design, PCB layout 
-Software Skills: web development 
-Tools and Frameworks: tailwind , reactjs
+# 👋 Hi, I'm Suganth
+
+### `ECE Student` • `Backend Developer` • `Problem Solver`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Building+backend+systems;Learning+DSA+one+problem+at+a+time;Python+%7C+Django+%7C+SQL+%7C+Linux;Always+learning%2C+always+building." />
+
+</div>
+
+---
+
+## 🖥️ `$ whoami`
+
+```text
+> suganth-here
+
+ECE student interested in backend development.
+
+Currently focused on:
+├── Backend Development
+├── Python & Django
+├── Data Structures & Algorithms
+├── SQL & REST APIs
+└── Building real-world projects
+
+$ status
+> Learning
+> Building
+> Improving
+> Repeating_
+
+
+This is the terminal-style section.
+
+---
+
+# PART 3 — Tech Stack
+
+```markdown
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,mysql,git,github,linux,html,css,js,vscode" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🌱 Climate Risk Based Lending System
+
+A Django-based backend system designed to help banks evaluate the climate risk associated with a property location and adjust lending parameters such as interest rates and loan tenure.
+
+**Tech:** Python • Django • SQL • REST APIs
+
+---
+
+### 🛒 Flipzon
+
+An e-commerce web application built while learning Django backend development.
+
+**Tech:** Python • Django • HTML • CSS • SQL
+
+---
+
+### ⚡ Power Management System
+
+A power management project developed during my engineering journey that switches between solar and battery power depending on availability while displaying current and voltage information.
+
+**Tech:** Embedded Systems • Power Management • Sensors
+
+---
+
+
+---
+
+# PART 6 — GitHub Stats
+
+```markdown
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=suganth-here&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suganth-here&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+---
+## 📈 My Developer Journey
+
+```text
+ECE
+ │
+ ├── Python
+ │    └── Data Science
+ │
+ ├── Backend Development
+ │    └── Django
+ │         ├── APIs
+ │         ├── Authentication
+ │         ├── Databases
+ │         └── Deployment
+ │
+ └── DSA
+      ├── Problem Solving
+      ├── Algorithms
+      └── Interview Preparation
+## 💻 Beyond Code
+
+```text
+🐧 Linux enthusiast
+⚙️ Backend enjoyer
+🧠 Problem solving
+🌱 Continuous learning
+🔨 Building things instead of just watching tutorials
+
+
+---
+
+# PART 12 — Connect
+
+For now, use placeholders:
+
+```markdown
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/imsuganth">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:itzsuganth@gmail.com">
+<img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+<div align="center">
+
+### `while (alive) { learn(); build(); improve(); }`
+
+<br>
+
+**Thanks for visiting! ⭐**
+
+</div>

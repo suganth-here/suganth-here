@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # 👋 Hi, I'm Suganth
@@ -13,37 +12,34 @@
 
 ## 🖥️ `$ whoami`
 
-```text
 > suganth-here
 
 ECE student interested in backend development.
 
-Currently focused on:
-├── Backend Development
-├── Python & Django
-├── Data Structures & Algorithms
-├── SQL & REST APIs
-└── Building real-world projects
+**Currently focused on:**
 
+- Backend Development
+- Python & Django
+- Data Structures & Algorithms
+- SQL & REST APIs
+- Building real-world projects
+
+<pre>
 $ status
+
 > Learning
 > Building
 > Improving
 > Repeating_
-
-
-This is the terminal-style section.
+</pre>
 
 ---
 
-# PART 3 — Tech Stack
-
-```markdown
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,mysql,git,github,linux,html,css,js,vscode" />
+<img src="https://skillicons.dev/icons?i=python,django,mysql,git,github,linux,vscode" />
 
 </div>
 
@@ -61,7 +57,7 @@ A Django-based backend system designed to help banks evaluate the climate risk a
 
 ### 🛒 Flipzon
 
-An e-commerce web application built while learning Django backend development.
+An e-commerce web application built with Django for learning and implementing backend development concepts.
 
 **Tech:** Python • Django • HTML • CSS • SQL
 
@@ -69,18 +65,29 @@ An e-commerce web application built while learning Django backend development.
 
 ### ⚡ Power Management System
 
-A power management project developed during my engineering journey that switches between solar and battery power depending on availability while displaying current and voltage information.
+A power management system that switches between solar and battery power depending on availability while displaying current and voltage information.
 
 **Tech:** Embedded Systems • Power Management • Sensors
 
 ---
 
+## 🧠 Currently Learning
+
+<pre>
+Data Structures & Algorithms
+Backend Development
+Django
+SQL
+System Design
+</pre>
+
+### DSA Journey
+
+`Arrays` → `Strings` → `Two Pointers` → `Sliding Window`
+→ `Stack` → `Linked List` → `Trees` → `Graphs` → `DP`
 
 ---
 
-# PART 6 — GitHub Stats
-
-```markdown
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -92,42 +99,39 @@ A power management project developed during my engineering journey that switches
 </div>
 
 ---
-## 📈 My Developer Journey
 
-```text
-ECE
- │
- ├── Python
- │    └── Data Science
- │
- ├── Backend Development
- │    └── Django
- │         ├── APIs
- │         ├── Authentication
- │         ├── Databases
- │         └── Deployment
- │
- └── DSA
-      ├── Problem Solving
-      ├── Algorithms
-      └── Interview Preparation
-## 💻 Beyond Code
+## 🔥 Contribution Streak
 
-```text
-🐧 Linux enthusiast
-⚙️ Backend enjoyer
-🧠 Problem solving
-🌱 Continuous learning
-🔨 Building things instead of just watching tutorials
+<div align="center">
 
+<img src="https://streak-stats.demolab.com?user=suganth-here&theme=github-dark-blue&hide_border=true" />
+
+</div>
 
 ---
 
-# PART 12 — Connect
+## 🎯 2026 Goals
 
-For now, use placeholders:
+- [x] Build a strong foundation in Python
+- [x] Learn Django
+- [x] Build backend projects
+- [x] Learn core DSA patterns
+- [ ] Become interview-ready in DSA
+- [ ] Build and deploy production-style backend projects
+- [ ] Land a backend/software engineering role
 
-```markdown
+---
+
+## 💻 Beyond Code
+
+- 🐧 Linux enthusiast
+- ⚙️ Backend enjoyer
+- 🧠 Problem solving
+- 🌱 Continuous learning
+- 🔨 Building things instead of just watching tutorials
+
+---
+
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -143,11 +147,10 @@ For now, use placeholders:
 </div>
 
 ---
+
 <div align="center">
 
 ### `while (alive) { learn(); build(); improve(); }`
-
-<br>
 
 **Thanks for visiting! ⭐**
 

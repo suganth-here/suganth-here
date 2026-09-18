@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Suganth
 
-### `ECE Student` • `Backend Developer` • `Problem Solver`
+### `Electronics Enthusiast` • `Backend Developer` • `Problem Solver`
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Building+backend+systems;Learning+DSA+one+problem+at+a+time;Python+%7C+Django+%7C+SQL+%7C+Linux;Always+learning%2C+always+building." />
 
